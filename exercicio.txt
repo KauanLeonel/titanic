@@ -1,0 +1,8 @@
+1. Mulheres realmente tiveram maior probabilidade de
+sobrevivência?
+2. A classe do passageiro estava associada à
+sobrevivência?
+3. A tarifa paga pelos sobreviventes era diferente da
+tarifa paga pelos não sobreviventes?
+4. Qual o porto que ocorreu o embarque com a
+quantidade maior de sobreviventes?
